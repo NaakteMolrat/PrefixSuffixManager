@@ -1,0 +1,8 @@
+name: PrefixSuffixManager
+main: plugins.testPlugin.Main
+version: 0.0.1
+api-version: '1.20'
+commands:
+    presuf:
+        usage: /presuf
+        description: does everything you could ever want. Well except for removing presufs, gotta do that in the config.yml
